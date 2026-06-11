@@ -12,14 +12,14 @@ This project demonstrates an end-to-end Data Analytics workflow using Excel, SQL
 * Power BI
 
 ## Project Workflow
-1. Data Cleaning (Excel)
+## 1. Data Cleaning (Excel)
 * Removed duplicates
 * Standardized date formats
 * Created Shipping Days column
 * Validated missing values
 * Prepared dataset for analysis
 
-2. SQL Analysis
+## 2. SQL Analysis
 Performed business-focused analysis including:
 * Top 10 Products by Profit
 * Monthly Sales Trend
@@ -29,7 +29,7 @@ Performed business-focused analysis including:
 * Shipping Performance Analysis
 * Revenue Contribution Analysis
 
-3. Python EDA
+## 3. Python EDA
 Performed Exploratory Data Analysis using Pandas and Matplotlib:
 * Sales by Category
 * Monthly Sales Trend
@@ -38,7 +38,7 @@ Performed Exploratory Data Analysis using Pandas and Matplotlib:
 * Customer Analysis
 * State-wise Profit Analysis
 
-4. Power BI Dashboard
+## 4. Power BI Dashboard
 Created a 4-page interactive dashboard:
 
 ## Executive Overview
